@@ -1,4 +1,5 @@
-.idea
+.idea/
+.venv/
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
@@ -7,8 +8,11 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
+
+.virtual_documents/
+*/.virtual_documents/*
 
 # IPython
 profile_default/
