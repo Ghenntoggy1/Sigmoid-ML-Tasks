@@ -12,7 +12,7 @@ class MeanRegressor(MLModel):
         if len(X) != len(y):
             raise ValueError(f"X and y must be of the same length - len(X) = {len(X)} and len(y) = {len(y)}")
 
-        self.__mean = sum(X) / len(y)
+        self.__mean = sum(y) / len(y)
 
     @override
     def predict(self, X: list[int | float] | list[list[int | float]]) -> list:
