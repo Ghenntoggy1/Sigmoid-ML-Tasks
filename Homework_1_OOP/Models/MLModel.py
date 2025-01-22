@@ -1,6 +1,6 @@
 class MLModel:
-    def fit(self, X: list | list[list], y: list) -> None:
+    def fit(self, X: list[int | float] | list[list[int | float]], y: list) -> None:
         raise NotImplementedError
 
-    def predict(self, X: list | list[list]):
+    def predict(self, X: list[int | float] | list[list[int | float]]):
         raise NotImplementedError
