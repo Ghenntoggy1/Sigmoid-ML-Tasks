@@ -1,11 +1,15 @@
 .idea/
 .venv/
+
 Interview_House_Price_Prediction_Model/practice
 Interview_House_Price_Prediction_Model/practice.py
 Interview_House_Price_Prediction_Model/tech_interview
+
+# All folders with __pycache__ name
 __pycache__/
 
-Homework_2_Pandas_Numpy/practice_handbook_example
+# All folder with practice_handbook_example name
+practice_handbook_example/
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
