@@ -13,3 +13,4 @@ Machine Learning tasks done during Sigmoid Internship.
 - [Homework #4 - Logistic Regression](Homework_4_Logistic_Regression)
 - [Homework #5 - PCA](Homework_5_PCA)
 - [Homework #6 - tSNE. Feature Engineering](Homework_6_tSNE_Feature_Engineering)
+- [Homework #7 - Decision Tree. Random Forest](Homework_7_Decision_Tree_Random_Forest)
