@@ -7,6 +7,8 @@ Interview_House_Price_Prediction_Model/tech_interview
 
 Homework_16_Class_Balancing/dataset/zenodo
 
+Homework_19_Dask/dataset/thegurus-opendata-renfe-trips.csv
+
 # All folders with __pycache__ name
 __pycache__/
 
