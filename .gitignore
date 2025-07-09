@@ -1,5 +1,6 @@
 .idea/
 .venv/
+.env
 
 Interview_House_Price_Prediction_Model/practice
 Interview_House_Price_Prediction_Model/practice.py
