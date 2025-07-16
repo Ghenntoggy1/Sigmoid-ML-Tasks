@@ -73,7 +73,7 @@ def get_distance_api(row: pd.Series) -> float:
 def get_distance_haversine(row: pd.Series) -> float:
     origin = (row['pickup_latitude'], row['pickup_longitude'])
     destination = (row['dropoff_latitude'], row['dropoff_longitude'])
-    return haversine(origin, destination)
+    return haversine(origin, destination, unit=Unit.METERS)
 
 def get_distance_osmnx(row: pd.Series, G: nx.Graph) -> float:
     try: 
