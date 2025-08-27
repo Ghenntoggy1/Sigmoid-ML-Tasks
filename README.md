@@ -28,3 +28,4 @@ Machine Learning tasks done during Sigmoid Internship.
 - [Homework #19 - Dask](Homework_19_Dask)
 - [Pre-Exam #1 - Taxi Trip Duration (Regression)](Pre_Exam_1_Taxi_Trip_Duration_Regression)
 - [Pre-Exam #2 - Give Me Some Credit (Classification)](Pre_Exam_2_Give_Me_Some_Credit_Classification)
+- [Exam - Age Prediction](Exam_Age_Prediction)
